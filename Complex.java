@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Complex{
+class Complex{
 
 double real;
 double image;
